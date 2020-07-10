@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MPB+x6tFhLJe8vYOIStVIeZ4ejbITX5HzbRXfjsrQ5C7/giELnmAJhKffqUtz63VP8Q57oj8pBYzJ9SLrC0e8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\COMMAND\\source\\repos\\UAS\\UAS\\UAS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\COMMAND\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

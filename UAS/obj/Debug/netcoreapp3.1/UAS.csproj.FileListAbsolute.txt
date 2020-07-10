@@ -1,0 +1,15 @@
+C:\Users\COMMAND\source\repos\UAS\UAS\bin\Debug\netcoreapp3.1\UAS.exe
+C:\Users\COMMAND\source\repos\UAS\UAS\bin\Debug\netcoreapp3.1\UAS.deps.json
+C:\Users\COMMAND\source\repos\UAS\UAS\bin\Debug\netcoreapp3.1\UAS.runtimeconfig.json
+C:\Users\COMMAND\source\repos\UAS\UAS\bin\Debug\netcoreapp3.1\UAS.runtimeconfig.dev.json
+C:\Users\COMMAND\source\repos\UAS\UAS\bin\Debug\netcoreapp3.1\UAS.dll
+C:\Users\COMMAND\source\repos\UAS\UAS\bin\Debug\netcoreapp3.1\UAS.pdb
+C:\Users\COMMAND\source\repos\UAS\UAS\obj\Debug\netcoreapp3.1\UAS.csprojAssemblyReference.cache
+C:\Users\COMMAND\source\repos\UAS\UAS\obj\Debug\netcoreapp3.1\UAS.AssemblyInfoInputs.cache
+C:\Users\COMMAND\source\repos\UAS\UAS\obj\Debug\netcoreapp3.1\UAS.AssemblyInfo.cs
+C:\Users\COMMAND\source\repos\UAS\UAS\obj\Debug\netcoreapp3.1\UAS.dll
+C:\Users\COMMAND\source\repos\UAS\UAS\obj\Debug\netcoreapp3.1\UAS.pdb
+C:\Users\COMMAND\source\repos\UAS\UAS\obj\Debug\netcoreapp3.1\UAS.genruntimeconfig.cache
+C:\Users\COMMAND\source\repos\UAS\UAS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\COMMAND\source\repos\UAS\UAS\obj\Debug\netcoreapp3.1\UAS.csproj.CoreCompileInputs.cache
+C:\Users\COMMAND\source\repos\UAS\UAS\obj\Debug\netcoreapp3.1\UAS.csproj.CopyComplete
